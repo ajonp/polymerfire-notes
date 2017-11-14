@@ -1,0 +1,21 @@
+{
+  "name": "polymerfire",
+  "homepage": "https://github.com/ajonp/polymerfire-notes",
+  "authors": [
+    "ajonp <developer@ajonp.info>"
+  ],
+  "description": "example polymerfire notes",
+  "main": "public/index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "note-app-elements": "polymerlabs/note-app-elements#^2.1.2",
+    "polymerfire": "firebase/polymerfire#^2.2.1"
+  }
+}
