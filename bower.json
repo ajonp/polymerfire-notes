@@ -16,6 +16,7 @@
   ],
   "dependencies": {
     "note-app-elements": "polymerlabs/note-app-elements#^2.1.2",
-    "polymerfire": "firebase/polymerfire#^2.2.1"
+    "polymerfire": "firebase/polymerfire#^2.2.1",
+    "platinum-sw": "^2.0.0"
   }
 }
