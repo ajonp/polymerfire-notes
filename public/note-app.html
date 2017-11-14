@@ -35,7 +35,7 @@
             behaviors: [Polymer.NoteAppBehavior],
 
             signIn: function () {
-                this.$.auth.signInWithPopup();
+                this.$.auth.signInWithRedirect();
             },
 
             get notesPath() {
